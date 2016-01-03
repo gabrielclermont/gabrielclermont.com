@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Writing
 ---
 
@@ -7,8 +7,9 @@ This page is going to have links to all the stuff I've written.
 
 I'm gonna grab it from the index. Whooo.
 
+
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">
