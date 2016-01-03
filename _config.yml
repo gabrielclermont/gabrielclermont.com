@@ -6,13 +6,12 @@ gems: [jekyll-paginate, jekyll-gist]
 
 # Permalinks
 permalink:        pretty
-permalink: /writing/:categories/:year/:month/:day/:title.html
 
 # Setup
 title:            Gabriel Clermont
 tagline:          'Artist?'
 description:      'The personal website of filmmaker and writer Gabriel Clermont'
-url:              http://gabrielclermont.com/
+url:              http://www.gabrielclermont.com/
 baseurl:          ""
 
 author:
