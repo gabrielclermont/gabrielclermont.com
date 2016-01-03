@@ -13,7 +13,7 @@ title:            Gabriel Clermont
 tagline:          'Artist?'
 description:      'The personal website of filmmaker and writer Gabriel Clermont'
 url:              http://gabrielclermont.com/
-baseurl:          gabrielclermont.com/
+baseurl:          ""
 
 author:
   name:           'Gabriel Clermont'
@@ -25,4 +25,4 @@ paginate:         5
 version:          1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/gabrielclermont/gabrielclermont.com
