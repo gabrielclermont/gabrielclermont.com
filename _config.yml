@@ -6,7 +6,7 @@ gems: [jekyll-paginate, jekyll-gist]
 
 # Permalinks
 permalink:        pretty
-
+permalink: /writing/:categories/:year/:month/:day/:title.html
 
 # Setup
 title:            Gabriel Clermont
