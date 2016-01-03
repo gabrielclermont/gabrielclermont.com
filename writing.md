@@ -1,9 +1,11 @@
 ---
-layout: default
-title: Home
+layout: page
+title: Writing
 ---
 
-Thre really shouldn't be anything here. Just these words.
+This page is going to have links to all the stuff I've written.
+
+I'm gonna grab it from the index. Whooo.
 
 <div class="posts">
   {% for post in paginator.posts %}
