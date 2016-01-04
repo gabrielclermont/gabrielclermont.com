@@ -4,7 +4,7 @@ title: Work
 ---
 
 ### As Closely Linked as Flesh and Blood (2015)
-*Director*`
+*Director*
 
 ![picture]({{ site.baseurl }}/public/FAB_Stills/P5050334.jpg "Production Still")
 ![picture]({{ site.baseurl }}/public/FAB_stills/P5020304.jpg "Production Still")
