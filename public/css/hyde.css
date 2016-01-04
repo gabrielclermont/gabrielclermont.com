@@ -58,7 +58,7 @@ html {
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
-  background-image: url("{{ site.baseurl }}/public/Apartment15.JPG")
+  
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -125,6 +125,7 @@ a.sidebar-nav-item:focus {
 .content {
   padding-top:    4rem;
   padding-bottom: 4rem;
+  background-image: url("{{ site.baseurl }}/public/Apartment15.JPG")
 }
 
 @media (min-width: 48em) {
