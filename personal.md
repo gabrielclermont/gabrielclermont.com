@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Work
+title: Personal Work
 ---
 
 ### As Closely Linked as Flesh and Blood (2015)
