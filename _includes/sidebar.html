@@ -1,19 +1,4 @@
-
 <div class="sidebar">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script>
-$(document).ready(function(){
-    $("button").click(function(){
-        $("#test").hide();
-    });
-});
-</script>
-
-
-<img id="test" src="{{ site.baseurl }}/public/gabe2.png" alt="Smiley face">
-  
-
-
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
@@ -23,7 +8,7 @@ $(document).ready(function(){
       </h1>
       <p class="lead">{{ site.description }}</p>
     </div>
-<button>Click me</button>
+
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.url }}">Who?</a>
 
@@ -49,5 +34,3 @@ $(document).ready(function(){
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
-
-
