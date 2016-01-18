@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Contact
+title: Get in Touch
+weight: 5
 ---
 
 gabriel (dot) clermont (at) gmail (dot) com
 
 As of this moment, I still have 5GB left in my email account so really feel free to slide into my inbox.
 
-## Other Places
- [@gabrieltrane](https://twitter.com/gabrieltrane)<br>
-[Vimeo](https://vimeo.com/gabec)
+*Also:*<br>
+[Twitter](twitter.com/gabrieltrane) <br>
+[Vimeo](vimeo.com/gabec)

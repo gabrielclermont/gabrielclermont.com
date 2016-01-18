@@ -2,16 +2,22 @@
 layout: default
 title: Home
 ---
-
-<h1>
-        Updates
-      </h1>
+<style>
 
 
+h2 {
+    text-decoration: underline;
+}
+
+
+</style>
+
+
+<h1 style="text-shadow: 2px 2px #ff0000;" align="right" class="page-title">News</h1>
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
-    <h2 class="post-title">
+    <h2 text-decoration: underline; class="post-title">
       <a href="{{ post.url }}">
         {{ post.title }}
       </a>
